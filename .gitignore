@@ -1,0 +1,45 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio and editor settings
+.vs/
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Build artifacts
+*.csproj
+*.unityproj
+*.sln
+*.sln.*
+*.csproj.*
+*.pidb
+*.user
+*.userprefs
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated project files
+*.booproj
+*.svd
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Unity cache files
+sysinfo.txt
+*.log
+node_modules/
