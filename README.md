@@ -1,4 +1,4 @@
-🛹 Skateboard Balance Game
+#🛹 Skateboard Balance Game
 
 A simple 2D Unity game where the player controls the skateboarder's rotation to maintain balance and avoid crashing head-first. This project was created to practice Unity fundamentals, including player movement, physics, and scene setup.
 
